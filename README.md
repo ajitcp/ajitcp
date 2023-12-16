@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ajitp4292@gmail.com/patil.aji@northeastern.edu**
 - LATEST CLOUD NATIVE WEB APPLICATION PROJECT
-  ![Cloud Pic Project](images/CSYE6225 - Ajit.png) 
+  ![Cloud Pic Project](images/CSYE6225 - Ajit.png)
 
 
 <h3 align="left">Connect with me:</h3>
